@@ -24,3 +24,9 @@ A machine learning model that is trained to accept data and predict future value
   trend in various periods to gain insights to data.
 
   _Project Report included in project directory_
+
+## [Data Dashboarding with Dash and Plotly](https://github.com/Nas-git-hub/Dashboard-with-Dash-and-Plotly.git) 
+This dashboard is to explore patterns and trends to gain insight on behaviors of wildfires per year in regions in Australia. 
+ * Used plotly and dash framework to develop an interactive web dashboard for visualization
+   
+### Image view of the dashboard ![](https://user-images.githubusercontent.com/140710778/271335801-7438c573-d274-4893-86fd-75289b80cb5e.png)
