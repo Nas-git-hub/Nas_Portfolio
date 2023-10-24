@@ -29,4 +29,5 @@ A machine learning model that is trained to accept data and predict future value
 This dashboard is to explore patterns and trends to gain insight on behaviors of wildfires per year in regions in Australia. 
  * Used plotly and dash framework to develop an interactive web dashboard for visualization
    
-### Image view of the dashboard ![](https://user-images.githubusercontent.com/140710778/271335801-7438c573-d274-4893-86fd-75289b80cb5e.png)
+### Image view of the dashboard ![](https://user-images.githubusercontent.com/140710778/271335801-7438c573-d274-4893-86fd-75289b80cb5e.png) ![](https://user-images.githubusercontent.com/140710778/271336042-0f8402dd-faf2-41ed-932f-2afd59d5cde7.png)
+
