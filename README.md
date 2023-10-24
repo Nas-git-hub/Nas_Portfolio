@@ -55,4 +55,6 @@ _Project report included in project repository_
 
 [Dashboard of future tech stack trends](https://dataplatform.cloud.ibm.com/dashboards/809d3c2e-b324-4133-bf40-d74982bb5120/view/523ed90624800bd454ddeae4079f28547f34275ee7bbd105d4837b490e662597f03b4696c8284309da195062a5e5135acf)
 
-### An overview of the survey demograpics of data collected 
+[Demographics dashboard](https://dataplatform.cloud.ibm.com/dashboards/65195174-c62b-4a3c-b177-c1666e4d451b/view/6266f73838836dc957ebf6e4079f28547f34275ee7bbd105d4837b490e662597f03b4696c8284309da195062a5e5135acf)
+
+### An overview of the survey demograpics of data collected ![](image2.png)
