@@ -9,7 +9,7 @@ A machine learning model that is trained to accept data and predict future value
 *	The model responded with numerous running with a minimal rms.
 _Project Report included in project directory_
 
-###Over view of the Arima Model architecture 
+### Over view of the Arima Model architecture ![](image1.png)
 
 
 ## [Analyzing data with visualizations](https://github.com/Nas-git-hub/Analyzing-Automobile-sales.git)  
