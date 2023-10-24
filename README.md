@@ -7,6 +7,7 @@ A machine learning model that is trained to accept data and predict future value
 *	I plot the temperature to time graph using the first half of the dataset
 *	Using sqlearn library and the arima model I developed a training algorythm using the initial first half of the data set to train and predict the second half 
 *	The model responded with numerous running with a minimal rms.
+  
  _Project Report included in project directory_
 
 ### Over view of the Arima Model architecture ![](image1.png)
@@ -20,5 +21,6 @@ A machine learning model that is trained to accept data and predict future value
 * Plot different lines for categories of vehicle type and analyse the trend to find out if there
   is a noticeable difference in sales trends between different vehicle types during recession periods.
 * Used the functionality of Seaborn Library and pandas to create a visualizations to compare the sales 
-  trend in various periods to gain insights to data 
+  trend in various periods to gain insights to data
+  
  _Project Report included in project directory_
