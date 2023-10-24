@@ -1,5 +1,5 @@
 # Nas' Data Analysis Portfolio
-## Prediction Model: https://github.com/Nas-git-hub/Prediction-model.git
+## [Prediction Model](https://github.com/Nas-git-hub/Prediction-model.git)
 A machine learning model that is trained to accept data and predict future values of that data with minimal prediction error. 
 *	Downloaded weather data from Historical Hourly Weather Data 2012-2017 | Kaggle and saved locally as csv file 
 *	Used python in data cleaning proceedure (ie removed unwanted colums, dropped empty rows, removed duplicates and standardized outliners)
