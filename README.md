@@ -1,4 +1,27 @@
 # Data Analysis Portfolio
+
+## [Analysing the demand for various tech Stack](https://github.com/Nas-git-hub/Tech-Stack-Data-Analysis.git) 
+This project involves analyzing trending tech stack as a Data analyst of a global IT and business consulting service firm 
+and with changing technologies there is a requirement to do regular analysis to help identify future skill requirements.
+
+* Collected data on the top programming skills from sources like Job postings, Training portals and Surveys using webscrapping.
+* Found and removed duplicates
+* Inputing and removing missing values
+* Normalized the data  
+* Used appropriate visualizations to reveal findings to questions
+* Created an interactive dashboard to report findings 
+_Project report included in project repository_
+
+[Dashboard of current tech stack trends]( https://dataplatform.cloud.ibm.com/dashboards/bd8d4a0c-0aaa-426c-9d21-2ff6ac90e236/view/5826d6161ebc19926df2f2e4079f28547f34275ee7bbd105d4837b490e662597f03b4696c8284309da195062a5e5135acf)
+
+[Dashboard of future tech stack trends](https://dataplatform.cloud.ibm.com/dashboards/809d3c2e-b324-4133-bf40-d74982bb5120/view/523ed90624800bd454ddeae4079f28547f34275ee7bbd105d4837b490e662597f03b4696c8284309da195062a5e5135acf)
+
+[Demographics dashboard](https://dataplatform.cloud.ibm.com/dashboards/65195174-c62b-4a3c-b177-c1666e4d451b/view/6266f73838836dc957ebf6e4079f28547f34275ee7bbd105d4837b490e662597f03b4696c8284309da195062a5e5135acf)
+
+### An overview of the survey demograpics of data collected ![](image2.png)
+
+
+
 ## [Prediction Model](https://github.com/Nas-git-hub/Prediction-model.git)
 A machine learning model that is trained to accept data and predict future values of that data with minimal prediction error. 
 
@@ -41,22 +64,4 @@ This dashboard is to explore patterns and trends to gain insight on behaviors of
 
 
 
-## [Analysing the demand for various tech Stack](https://github.com/Nas-git-hub/Tech-Stack-Data-Analysis.git) 
-This project involves analyzing trending tech stack as a Data analyst of a global IT and business consulting service firm 
-and with changing technologies there is a requirement to do regular analysis to help identify future skill requirements.
 
-* Collected data on the top programming skills from sources like Job postings, Training portals and Surveys using webscrapping.
-* Found and removed duplicates
-* Inputing and removing missing values
-* Normalized the data  
-* Used appropriate visualizations to reveal findings to questions
-* Created an interactive dashboard to report findings 
-_Project report included in project repository_
-
-[Dashboard of current tech stack trends]( https://dataplatform.cloud.ibm.com/dashboards/bd8d4a0c-0aaa-426c-9d21-2ff6ac90e236/view/5826d6161ebc19926df2f2e4079f28547f34275ee7bbd105d4837b490e662597f03b4696c8284309da195062a5e5135acf)
-
-[Dashboard of future tech stack trends](https://dataplatform.cloud.ibm.com/dashboards/809d3c2e-b324-4133-bf40-d74982bb5120/view/523ed90624800bd454ddeae4079f28547f34275ee7bbd105d4837b490e662597f03b4696c8284309da195062a5e5135acf)
-
-[Demographics dashboard](https://dataplatform.cloud.ibm.com/dashboards/65195174-c62b-4a3c-b177-c1666e4d451b/view/6266f73838836dc957ebf6e4079f28547f34275ee7bbd105d4837b490e662597f03b4696c8284309da195062a5e5135acf)
-
-### An overview of the survey demograpics of data collected ![](image2.png)
