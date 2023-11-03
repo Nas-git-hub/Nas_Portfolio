@@ -20,6 +20,13 @@ _Project report included in project repository_
 
 ### An overview of the survey demograpics of data collected ![](image2.png)
 
+## [Descriptive-Analysis on US Housing Market]()
+This project involves performing a desvcriptive analysis on the US housoing market
+Aim:
+* Understand the data
+* Find trends in data
+* Discover relationship between data points
+* Created a linear Pegression model to predict mortgage rate
 
 
 ## [Prediction Model](https://github.com/Nas-git-hub/Prediction-model.git)
