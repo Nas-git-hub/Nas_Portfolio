@@ -1,5 +1,21 @@
 # Data Analysis Portfolio
 
+## Movie-Industry-Analysis
+The movie industry is one of the growing industries in our current settings. 
+It is one of the significant contributions to global economy.  
+As of today, it is no doubt that this industry has become more than a billion-dollar industry. 
+Questioning the relevance of this industry is what drove me into conducting this analysis.
+* Collected dataset from [kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies)
+* After sucessful cleaning of data, I stored it in sqlite database
+* Proceeded in data mining with sql and python
+
+Analyis was made to find insights to questions like
+* Which is the most produced movie ratings and genres
+* What is the average revenue and score of each genre
+* How does the budget affect the gross earnings of a movie
+* Which season does movies released generate a high gross earnings
+These and other insights where visualized and interpreted. 
+
 ## [Analysing the demand for various tech Stack](https://github.com/Nas-git-hub/Tech-Stack-Data-Analysis.git) 
 This project involves analyzing trending tech stack as a Data analyst of a global IT and business consulting service firm 
 and with changing technologies there is a requirement to do regular analysis to help identify future skill requirements.
