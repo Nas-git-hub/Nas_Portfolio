@@ -39,7 +39,7 @@ _Project report included in project repository_
 
 
 ## [Descriptive-Analysis on US Housing Market](https://github.com/Nas-git-hub/US-Housing-Market.git)
-This project involves performing a desvcriptive analysis on the US housoing market
+This project involves performing a descriptive analysis on the US housing market
 Aim:
 * Understand the data
 * Find trends in data
