@@ -47,7 +47,7 @@ Aim:
 * Created a linear Pegression model to predict mortgage rate
 
 
-## [Analysing Automobile sales]()
+## [Analysing Automobile sales](https://github.com/Nas-git-hub/Analyzing-Automobile-sales.git)
 This projects involves data analysis of an automobile sales company to get insight from the data
 * Downloaded an already cleaned dataset which was artificially created for the purpose of the project.
 * Developed a Line chart using the functionality of pandas to show how automobile sales fluctuate from year to year.
