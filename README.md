@@ -1,5 +1,18 @@
 # Data Analysis Portfolio
 
+## [PowerBi_Dashboards](https://github.com/Nas-git-hub/PowerBi_Dashboards.git)
+### Customer Insight: 
+The file contains a dashboard of information about a random customers data
+The visualizations encompass:
+* Customer satisfaction
+* Customer chun risk
+* Customer growth
+
+### NasBi Week:
+This file is a dashboard created after successfully completing a three-day powerbi tutorials
+It made up of sales data of a random company
+
+
 ## [Movie-Industry-Analysis](https://github.com/Nas-git-hub/Movie-Industry-Analysis.git)
 The movie industry is one of the growing industries in our current settings. 
 It is one of the significant contributions to global economy.  
